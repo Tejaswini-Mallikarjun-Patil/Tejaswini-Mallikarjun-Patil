@@ -1,17 +1,44 @@
-## Hi there 👋
-<!--
-**Tejaswini-Mallikarjun-Patil/Tejaswini-Mallikarjun-Patil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
+  I'm <span style="color:#00bfff;">Tejaswini</span>!
+</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Designer+%F0%9F%96%8C%EF%B8%8F;Developer+%F0%9F%92%BB;AI+Explorer+%F0%9F%A4%96;Tech+Dreamer+%F0%9F%8C%9F" alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on building my software portfolio
-- 🌱 I’m currently learning technologies in design and development
-- 👯 I’m looking to collaborate on exciting software development projects and design-focused applications. If you have any interesting projects in these areas, feel free to reach out!
-- 🤔 I’m looking for help with expanding my knowledge in advanced programming techniques and UI/UX design principles.
-- 💬 Ask me about software development, design, portfolio building, or anything related to technology! I’m always happy to share what I know.
-- 📫 How reach me [Email](mailto:patiltejaswini873@gmail.com)
-  - [LinkedIn](https://www.linkedin.com/in/Tejaswini Patil)
-  - [ResearchGate](https://www.researchgate.net/Tejaswini Mallikarjun Patil)
+---
 
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I’m a language enthusiast and speak Kannada! I love exploring different cultures through their languages.
+<img align="right" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" />
+
+### 👩‍💻 About Me:
+- 🌿 I'm working on **AI in Agriculture** — smart drone monitoring systems.
+- 🤟 Creating a **Sign Language Translator Extension** for better accessibility.
+- 🛍️ Building a **Smart Tech Wishlist Web App** with React & Firebase.
+- 🎨 Love blending **design + code** using Flutter and Figma.
+- 📚 Currently Learning: Python, GenAI, Flutter, Next.js.
+
+---
+
+### ⚙️ My Tech Toolbox:
+![Tools](https://skillicons.dev/icons?i=html,css,js,react,nextjs,flutter,dart,python,github,figma,vscode,linux)
+
+---
+
+### ✨ GitHub Magic:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tejaswini-Git&show_icons=true&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Tejaswini-Git&theme=tokyonight" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Tejaswini-Git&theme=algolia&row=1&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+### 🐍 GitHub Activity Snake:
+<p align="center">
+  <img src="https://github.com/Tejaswini-Git/Tejaswini-Git/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
+
